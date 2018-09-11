@@ -7,6 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>../springmvc02</module>
+        <module>../springmvc05</module>
     </modules>
     <name>springmvc1 Maven Webapp</name>
   <url>http://maven.apache.org</url>
