@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc04" />
         <module name="springmvc05" />
+        <module name="springmvc06" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="springmvc03" target="1.7" />
       <module name="springmvc04" target="1.7" />
       <module name="springmvc05" target="1.7" />
+      <module name="springmvc06" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
