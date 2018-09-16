@@ -26,4 +26,5 @@ public class LoginController {
     Admin login(@RequestBody Admin admin) {
         return adminService.login(admin);
     }
+
 }
