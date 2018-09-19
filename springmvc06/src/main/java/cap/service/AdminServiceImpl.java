@@ -1,4 +1,4 @@
-package cap.service.impl;
+package cap.service;
 
 import cap.dao.AdminDAO;
 import cap.model.Admin;

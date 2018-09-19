@@ -8,16 +8,19 @@
     <file type="web" url="file://$PROJECT_DIR$/springmvc04" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc05" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc06" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm1" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springmvc01/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc04/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm1/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/mybatis1/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc02/pom.xml" />
       </set>
     </option>
